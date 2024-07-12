@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 📫 I'm available at:
 
-[![My Website](https://imgur.com/VES5XyE.png)](https://azinmobed.com)
-[![LinkedIn](https://imgur.com/W8Trfeb.png)](https://www.linkedin.com/in/azin-mobedmehdiabadi/)
+<a href="https://azinmobed.com"><img src="https://i.imgur.com/VES5XyE.png" alt="My Website" width="100" height="100"></a>
+<a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/"><img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="100" height="100"></a>
+
