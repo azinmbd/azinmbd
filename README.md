@@ -16,14 +16,23 @@ Here are some ideas to get you started:
 
 👀 I’m interested in web development and UI/UX design
 
-🌱 I’m currently working toward the Meta Frontend and Fullstack courses
+🌱 I’m currently working toward the Meta Frontend and Fullstack course
 
 🔭 I’m currently looking for a Junior Software Developer position
 
 📫 I'm available at:
 
-<a href="https://azinmobed.com"><img src="https://i.imgur.com/VES5XyE.png" alt="My Website" width="90" height="100"></a> Personal website
-<a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/"><img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="90" height="100"></a> LinkedIn profile
+<div style="display: flex; justify-content: center; gap: 20px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <a href="https://azinmobed.com" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #333;">
+        <img src="https://i.imgur.com/VES5XyE.png" alt="My Website" width="50" height="50">
+        Personal website
+    </a>
+    <a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #333;">
+        <img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="50" height="50">
+        LinkedIn profile
+    </a>
+</div>
+
 
 
 
