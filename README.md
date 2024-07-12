@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **azinmbd/azinmbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m Azin Mobed
+
+👀 I’m interested in web development and UI/UX design
+
+🔭 I’m currently looking for a Junior Software Developer position
+
+📫 I'm available at:
+
+[![My Website](https://imgur.com/VES5XyE.png)](https://azinmobed.com)
+[![LinkedIn](https://imgur.com/W8Trfeb.png)](https://www.linkedin.com/in/azin-mobedmehdiabadi/)
