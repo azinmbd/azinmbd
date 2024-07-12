@@ -22,18 +22,16 @@ Here are some ideas to get you started:
 
 📫 I'm available at:
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://azinmobed.com" style="text-decoration: none; color: white; justify-content: center; align-items: center; display: flex; background-color: #252735; width: fit-content; padding: 5px; border-radius: 5px;">
+<div>
+    <a href="https://azinmobed.com">
+        <img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="50" height="50">        
+    </a> 
+    <a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/">
         <img src="https://i.imgur.com/VES5XyE.png" alt="My Website" width="50" height="50">
-        Personal website
-    </a>
-    <a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/" style="text-decoration: none; color: white; justify-content: center; align-items: center; display: flex; background-color: #252735; width: fit-content; padding: 5px; border-radius: 5px;">
-        <img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="50" height="50">
-        LinkedIn profile
-    </a>
+    </a> 
+
+
 </div>
-
-
 
 
 
