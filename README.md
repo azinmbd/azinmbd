@@ -22,16 +22,10 @@ Here are some ideas to get you started:
 
 📫 I'm available at:
 
-<div>
-    <a href="https://azinmobed.com">
-        <img src="https://i.imgur.com/W8Trfeb.png" alt="LinkedIn" width="50" height="50">        
-    </a> 
-    <a href="https://www.linkedin.com/in/azin-mobedmehdiabadi/">
-        <img src="https://i.imgur.com/VES5XyE.png" alt="My Website" width="50" height="50">
-    </a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azin-mobedmehdiabadi/)
+[![Personal Website](https://img.shields.io/badge/Personal-Website-red?style=flat-square&logo=google-chrome&logoColor=white)](https://azinmobed.com)
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:azin.moubed@gmail.com)
 
-
-</div>
 
 
 
