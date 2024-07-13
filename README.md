@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m Azin Mobed
+# 👋 Hi, I’m Azin
 
 👀 I’m interested in web development and UI/UX design
 
