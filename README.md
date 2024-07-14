@@ -12,7 +12,8 @@
 </h1>
 
 
-I'm a web wizard with a knack for creating beautiful and functional digital experiences. With over 4 years of experience in web development and UI/UX design, I've mastered the art of React, Redux, and RESTful APIs. 
+I am a seasoned web wizard dedicated to crafting stunning and seamless digital experiences. With more than 4 years of hands-on experience in web development and UI/UX design, I excel in creating both visually appealing and highly functional applications. My expertise lies in harnessing the power of React, Redux, and RESTful APIs to build scalable and responsive web solutions that meet diverse user needs.
+
 <img src="/images/line.gif" >
 <h3 align="left">
   👯 My superpower? 
@@ -24,6 +25,7 @@ Turning complex problems into seamless user journeys that keep people coming bac
 <h3 align="left">
 👩‍🎓 Adventures in Learning: From Engineering to Design & Programming
   </h3>
+  
 Embarking on my journey from engineering to design and programming has been like navigating a thrilling maze of creativity and logic. Armed with a passion for problem-solving and a curious mind, I've transformed from wielding equations to crafting elegant user interfaces and robust code. Each new challenge is a quest for innovation, blending my engineering roots with the artistry of design and the precision of programming. Join me as I embrace the endless possibilities of learning, exploring, and creating in the dynamic world of technology! 🌟
 
 <img src="/images/line.gif" >
