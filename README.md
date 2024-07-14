@@ -1,16 +1,5 @@
 <!--
 **azinmbd/azinmbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -42,7 +31,7 @@ Embarking on my journey from engineering to design and programming has been like
 
 
 <h3 align="left">
-🧑‍💻Frequently Used Tech
+👩‍💻 Frequently Used Tech
   </h3>
   <div align="left">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
@@ -71,8 +60,7 @@ Embarking on my journey from engineering to design and programming has been like
 </div>
 
 <br>
-
-
+<div>
 🌱 I’m currently working toward the Meta Frontend and Fullstack course
 
 🔭 I’m currently looking for a Junior Software Developer position
@@ -95,6 +83,10 @@ Embarking on my journey from engineering to design and programming has been like
 
 </p>
 <br />
+ <img src="src="/images/desk.gif" width="45" height="45"  />
+</div>
+
+
 
 
 
