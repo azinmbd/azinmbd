@@ -5,7 +5,7 @@
 
 <h1 align="left">
         <samp>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">&gt; Hey There!, I am
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hey There!, I am
     <b><a target="_blank" href="https://azinmobed.com">Azin</a></b>
   </samp>
   <img align="right" src="https://komarev.com/ghpvc/?username=azinmbd&label=Visitors&color=8A2BE2&style=for-the-badge" />
@@ -29,6 +29,9 @@ Embarking on my journey from engineering to design and programming has been like
 <img src="/images/line.gif" >
 
 
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azinmbd&show_icons=true&layout=compact&theme=midnight-purple&card_width=500" />
 
 <h3 align="left">
 👩‍💻 Frequently Used Tech
@@ -60,31 +63,23 @@ Embarking on my journey from engineering to design and programming has been like
 </div>
 
 <br>
-<div>
-🌱 I’m currently working toward the Meta Frontend and Fullstack course
-
-🔭 I’m currently looking for a Junior Software Developer position
-
-📫 I'm available at:
-<p align="left">
- <a href="https://azinmobed.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href=" https://www.linkedin.com/in/azin-mobedmehdiabadi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-        <a href="https://dribbble.com/azin-mobedmehdiabadi" target="_blank">
-  <img src="https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="alsiam" />
- </a> 
-<a href="mailto:azin.moubed@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="/images/desk.gif" width="200" height="200" align="right" />
 
 
-</p>
+🌱 I’m currently working toward the Meta Frontend and Fullstack course  
 <br />
- <img src="src="/images/desk.gif" width="45" height="45"  />
-</div>
+🔭 I’m currently looking for a Junior Software Developer position  
+<br />
+📫 I'm available at:
+<br />
+<br />
+[![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white)](https://azinmobed.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azin-mobedmehdiabadi/)
+[![Dribble](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/azin-mobedmehdiabadi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azin.moubed@gmail.com)
+
+
+
 
 
 
