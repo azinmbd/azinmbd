@@ -31,7 +31,6 @@ Embarking on my journey from engineering to design and programming has been like
 <img src="/images/line.gif" >
 
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azinmbd&show_icons=true&layout=compact&theme=midnight-purple&card_width=350" />
 
 
