@@ -14,14 +14,14 @@
 
 I am a seasoned web wizard dedicated to crafting stunning and seamless digital experiences. With more than 4 years of hands-on experience in web development and UI/UX design, I excel in creating both visually appealing and highly functional applications. My expertise lies in harnessing the power of React, Redux, and RESTful APIs to build scalable and responsive web solutions that meet diverse user needs.
 
-<img src="/images/line.gif" >
+
 <h3 align="left">
   👯 My superpower? 
 </h3>
 
 Turning complex problems into seamless user journeys that keep people coming back for more. Whether I'm boosting engagement metrics or collaborating with awesome teams, I bring creativity, enthusiasm, and a can-do attitude to every project. Let's build something amazing together!
 
-<img src="/images/line.gif" >
+
 <h3 align="left">
 👩‍🎓 Adventures in Learning: From Engineering to Design & Programming
   </h3>
@@ -32,7 +32,7 @@ Embarking on my journey from engineering to design and programming has been like
 
 
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azinmbd&show_icons=true&layout=compact&theme=midnight-purple&card_width=350" />
 
 
 <h3 align="left">
