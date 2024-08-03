@@ -63,9 +63,9 @@ Embarking on my journey from engineering to design and programming has been like
 <img src="/images/desk.gif" width="200" height="200" align="right" />
 
 
-🌱 I’m currently working toward the Meta Frontend and Fullstack course  
+🌱 I’m currently working toward the Meta Frontend and Fullstack Developer courses.
 <br />
-🔭 I’m currently looking for a Junior Software Developer  position  
+🔭 I’m currently looking for a Junior Software Developer position.
 <br />
 📫 I'm available at:
 <br />
