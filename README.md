@@ -33,7 +33,7 @@ Embarking on my journey from engineering to design and programming has been like
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azinmbd&show_icons=true&layout=compact&theme=midnight-purple&card_width=350" />
+
 
 <h3 align="left">
 👩‍💻 Frequently Used Tech
