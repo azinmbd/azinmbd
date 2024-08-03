@@ -30,7 +30,6 @@ Embarking on my journey from engineering to design and programming has been like
 
 <img src="/images/line.gif" >
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azinmbd&show_icons=true&layout=compact&theme=midnight-purple&card_width=350" />
 
 
@@ -69,7 +68,7 @@ Embarking on my journey from engineering to design and programming has been like
 
 🌱 I’m currently working toward the Meta Frontend and Fullstack course  
 <br />
-🔭 I’m currently looking for a Junior Software Developer position  
+🔭 I’m currently looking for a Junior Software Developer  position  
 <br />
 📫 I'm available at:
 <br />
